@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+__author__ = "Yasser Janah (github.com/yasserjanah)"
+
 try:
     from PIL import Image
     import argparse, os
